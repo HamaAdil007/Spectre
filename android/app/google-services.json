@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "337720785610",
+    "firebase_url": "https://okey-4b8c0-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "okey-4b8c0",
+    "storage_bucket": "okey-4b8c0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:337720785610:android:2816aac7f4414fb1b95233",
+        "android_client_info": {
+          "package_name": "com.example.okey"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAySkhT70QtOaJHhqzKt_2z5I66SO9Q2Jg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
